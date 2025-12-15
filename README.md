@@ -1,0 +1,1 @@
+WP Rocket is a premium, easy-to-use WordPress caching and performance optimization plugin that significantly speeds up websites by implementing page caching, file minification (CSS/JS), lazy loading, database cleanup, and other advanced features, resulting in better user experience and improved SEO rankings
